@@ -1,0 +1,15 @@
+.product-sub-img .swiper-slide-thumb-active{
+
+    border:1px solid #333333;
+
+    border-radius:5px;
+}
+.product-detail-slide .swiper-button-prev:after, .product-detail-slide .swiper-button-next:after{
+    color:#51A55C!important;
+}
+.product-detail-slide .swiper-pagination-bullet{
+    color:#51A55C!important;
+    background-color:#51A55C!important;
+}
+.related-product .swiper-pagination-bullet-active{
+    background-color:#51A55C!important;}

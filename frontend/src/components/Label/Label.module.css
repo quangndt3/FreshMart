@@ -1,0 +1,11 @@
+.required{
+    position: relative;
+}
+.required::before{
+  content: "*";
+  display: inline-block;
+  position: absolute;
+  color: rgb(252, 110, 110);
+  right: -10px;
+  top:20%;
+}
