@@ -1,0 +1,16 @@
+.quickview .swiper-slide{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100%;
+}
+
+.quickview .swiper-button-prev:after, .quickview .swiper-button-next:after{
+    font-size:34px!important;
+    color:#51A55C!important;
+}
+.quickview .swiper-pagination-bullet{
+    color:#51A55C!important;
+    background-color:#51A55C!important;
+}
